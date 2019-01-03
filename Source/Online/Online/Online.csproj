@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard1.4</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="IPrintable">
+      <HintPath>..\..\IPrintable\IPrintable\bin\Debug\netstandard1.4\IPrintable.dll</HintPath>
+    </Reference>
+    <Reference Include="ReadingMaterial">
+      <HintPath>..\..\ReadingMaterial\ReadingMaterial\bin\Debug\netstandard1.4\ReadingMaterial.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>

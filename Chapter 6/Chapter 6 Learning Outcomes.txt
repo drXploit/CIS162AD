@@ -1,0 +1,16 @@
+Explain what is meant by a counter controlled loop,
+A counter controlled loop will loop until the counter has hit a certain number that was chosen then it will exit the loop.
+
+What makes a loop a pre-test loop.
+A pretest loop will test whether a condition (the body is run first before seeing whether to loop again) has been met before it starts the looping sequence.
+
+What is the definition of an infinite loop?
+An infinite loop is a loop that iterates over and over forever because the condition will never be met.
+
+What pre-test loops are available in C#?
+while
+for
+foreach
+
+What post-test loops are available in C#?
+do..while

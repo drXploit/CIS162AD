@@ -1,0 +1,17 @@
+C:\CSharp_4thEdition\Ch06\Ch06_Examples\SummedValues\SummedValues\bin\Debug\SummedValues.exe.config
+C:\CSharp_4thEdition\Ch06\Ch06_Examples\SummedValues\SummedValues\bin\Debug\SummedValues.exe
+C:\CSharp_4thEdition\Ch06\Ch06_Examples\SummedValues\SummedValues\bin\Debug\SummedValues.pdb
+C:\CSharp_4thEdition\Ch06\Ch06_Examples\SummedValues\SummedValues\obj\Debug\SummedValues.exe
+C:\CSharp_4thEdition\Ch06\Ch06_Examples\SummedValues\SummedValues\obj\Debug\SummedValues.pdb
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\AuthorsFirst\Ch06\Ch06_Examples\SummedValues\SummedValues\bin\Debug\SummedValues.exe.config
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\AuthorsFirst\Ch06\Ch06_Examples\SummedValues\SummedValues\obj\Debug\SummedValues.exe
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\AuthorsFirst\Ch06\Ch06_Examples\SummedValues\SummedValues\obj\Debug\SummedValues.pdb
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\AuthorsFirst\Ch06\Ch06_Examples\SummedValues\SummedValues\bin\Debug\SummedValues.exe
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\AuthorsFirst\Ch06\Ch06_Examples\SummedValues\SummedValues\bin\Debug\SummedValues.pdb
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\AuthorsFirst\Ch06\Ch06_Examples\SummedValues\SummedValues\obj\Debug\SummedValues.csprojResolveAssemblyReference.cache
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\RTP\Ch06\Ch06_Examples\SummedValues\SummedValues\bin\Debug\SummedValues.exe.config
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\RTP\Ch06\Ch06_Examples\SummedValues\SummedValues\obj\Debug\SummedValues.exe
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\RTP\Ch06\Ch06_Examples\SummedValues\SummedValues\obj\Debug\SummedValues.pdb
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\RTP\Ch06\Ch06_Examples\SummedValues\SummedValues\bin\Debug\SummedValues.exe
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\RTP\Ch06\Ch06_Examples\SummedValues\SummedValues\bin\Debug\SummedValues.pdb
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\RTP\Ch06\Ch06_Examples\SummedValues\SummedValues\obj\Debug\SummedValues.csprojResolveAssemblyReference.cache

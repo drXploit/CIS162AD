@@ -1,0 +1,12 @@
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\AuthorsFirst\Ch03\Ch03_Examples\Parameters\bin\Debug\Parameters.exe.config
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\AuthorsFirst\Ch03\Ch03_Examples\Parameters\bin\Debug\Parameters.exe
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\AuthorsFirst\Ch03\Ch03_Examples\Parameters\bin\Debug\Parameters.pdb
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\AuthorsFirst\Ch03\Ch03_Examples\Parameters\obj\Debug\Parameters.exe
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\AuthorsFirst\Ch03\Ch03_Examples\Parameters\obj\Debug\Parameters.pdb
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\AuthorsFirst\Ch03\Ch03_Examples\Parameters\obj\Debug\Parameters.csprojResolveAssemblyReference.cache
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\RTP\Ch03\Ch03_Examples\Parameters\bin\Debug\Parameters.exe.config
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\RTP\Ch03\Ch03_Examples\Parameters\obj\Debug\Parameters.exe
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\RTP\Ch03\Ch03_Examples\Parameters\obj\Debug\Parameters.pdb
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\RTP\Ch03\Ch03_Examples\Parameters\bin\Debug\Parameters.exe
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\RTP\Ch03\Ch03_Examples\Parameters\bin\Debug\Parameters.pdb
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\RTP\Ch03\Ch03_Examples\Parameters\obj\Debug\Parameters.csprojResolveAssemblyReference.cache

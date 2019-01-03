@@ -1,0 +1,33 @@
+﻿using System;
+using static System.Console;
+
+namespace InputEndPointsWithWhile
+{
+    class InputEndPointsWithWhile
+    {
+        static void Main( )
+        {
+            int sum = 0;
+            int startValue,
+                endValue;
+            string inValue;
+            Write("Enter the beginning value: ");
+            inValue = ReadLine();
+            if (int.TryParse(inValue, out startValue) == false)
+                WriteLine("Invalid input - 0 recorded for start value");
+            Write("Enter the last value: ");
+            inValue = ReadLine();
+            if (int.TryParse(inValue, out endValue) == false)
+                WriteLine("Invalid input - 0 recorded for end value");
+            Write("Sum of values {0} through {1} ",
+                  startValue, endValue);
+            while (startValue < endValue + 1)
+            {
+                sum = sum + startValue;
+                startValue++;
+            }
+            WriteLine("is {0}", sum);
+            ReadKey();
+        }
+    }
+}

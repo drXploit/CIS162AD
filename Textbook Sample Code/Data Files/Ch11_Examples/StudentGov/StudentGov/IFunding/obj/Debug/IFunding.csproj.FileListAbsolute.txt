@@ -1,0 +1,8 @@
+C:\CSharp_4thEdition\AuthorsFirst\Ch11\Ch11_Examples\StudentGov\StudentGov\IFunding\bin\Debug\IFunding.dll
+C:\CSharp_4thEdition\AuthorsFirst\Ch11\Ch11_Examples\StudentGov\StudentGov\IFunding\bin\Debug\IFunding.pdb
+C:\CSharp_4thEdition\AuthorsFirst\Ch11\Ch11_Examples\StudentGov\StudentGov\IFunding\obj\Debug\IFunding.dll
+C:\CSharp_4thEdition\AuthorsFirst\Ch11\Ch11_Examples\StudentGov\StudentGov\IFunding\obj\Debug\IFunding.pdb
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\RTP\Ch11\Ch11_Examples\StudentGov\StudentGov\IFunding\bin\Debug\IFunding.dll
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\RTP\Ch11\Ch11_Examples\StudentGov\StudentGov\IFunding\bin\Debug\IFunding.pdb
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\RTP\Ch11\Ch11_Examples\StudentGov\StudentGov\IFunding\obj\Debug\IFunding.dll
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\RTP\Ch11\Ch11_Examples\StudentGov\StudentGov\IFunding\obj\Debug\IFunding.pdb

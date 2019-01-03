@@ -1,0 +1,5 @@
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\RTP\Ch12\Ch12_Examples\FilteringExceptions\FilteringExceptions\bin\Debug\FilteringExceptions.exe.config
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\RTP\Ch12\Ch12_Examples\FilteringExceptions\FilteringExceptions\bin\Debug\FilteringExceptions.exe
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\RTP\Ch12\Ch12_Examples\FilteringExceptions\FilteringExceptions\bin\Debug\FilteringExceptions.pdb
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\RTP\Ch12\Ch12_Examples\FilteringExceptions\FilteringExceptions\obj\Debug\FilteringExceptions.exe
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\RTP\Ch12\Ch12_Examples\FilteringExceptions\FilteringExceptions\obj\Debug\FilteringExceptions.pdb

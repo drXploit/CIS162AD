@@ -1,0 +1,20 @@
+Write a line of code to declare a multidimensional int array to represent storing data as width and height.  Name the array merchandise.
+int [ , ] merchandise = new int[100, 100];
+
+Explain the difference between multidimensional and jagged arrays.
+Multidimensional arrays are layed out like a rectangle, so each row must have a certain amount of elements. 
+Jagged arrays are not layed out like a rectangle so each row can have a different number of elements.
+
+How are the number of dimensions in an array determined in code?
+The number of dimensions can be retrieved/determined by using the Rank property from within the array.
+
+Briefly explain the collection classes that are available in C#.
+BitArray is used for storing generic bits.
+Hashtable allow one to store key/value pairs instead of just having one type within the array.
+ArrayList Class is useful because you can change the size and length of the array after it is created so it is more adaptive.
+String Class is great for string manipulation and tokenizing/dividing strings up for syntax applications.
+Queue, as its name implies, stores data to be processed in an orderly fashion.
+Stack uses the Last In First Out data maintanence routing for storing information.
+
+What purpose does the split() method of the string class provide?
+The split() method will splice a string into various substrings by using a delimiter.

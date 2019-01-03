@@ -1,0 +1,12 @@
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\AuthorsFirst\Ch03\Ch03_Examples\AgeIncrementer\bin\Debug\AgeIncrementer.exe.config
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\AuthorsFirst\Ch03\Ch03_Examples\AgeIncrementer\bin\Debug\AgeIncrementer.exe
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\AuthorsFirst\Ch03\Ch03_Examples\AgeIncrementer\bin\Debug\AgeIncrementer.pdb
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\AuthorsFirst\Ch03\Ch03_Examples\AgeIncrementer\obj\Debug\AgeIncrementer.csprojResolveAssemblyReference.cache
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\AuthorsFirst\Ch03\Ch03_Examples\AgeIncrementer\obj\Debug\AgeIncrementer.exe
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\AuthorsFirst\Ch03\Ch03_Examples\AgeIncrementer\obj\Debug\AgeIncrementer.pdb
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\RTP\Ch03\Ch03_Examples\AgeIncrementer\bin\Debug\AgeIncrementer.exe.config
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\RTP\Ch03\Ch03_Examples\AgeIncrementer\obj\Debug\AgeIncrementer.exe
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\RTP\Ch03\Ch03_Examples\AgeIncrementer\obj\Debug\AgeIncrementer.pdb
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\RTP\Ch03\Ch03_Examples\AgeIncrementer\bin\Debug\AgeIncrementer.exe
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\RTP\Ch03\Ch03_Examples\AgeIncrementer\bin\Debug\AgeIncrementer.pdb
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\RTP\Ch03\Ch03_Examples\AgeIncrementer\obj\Debug\AgeIncrementer.csprojResolveAssemblyReference.cache

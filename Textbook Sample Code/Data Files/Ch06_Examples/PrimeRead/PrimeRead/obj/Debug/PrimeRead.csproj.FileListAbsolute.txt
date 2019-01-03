@@ -1,0 +1,16 @@
+C:\CSharp_4thEdition\Ch06\Ch06_Examples\PrimeRead\PrimeRead\bin\Debug\PrimeRead.exe.config
+C:\CSharp_4thEdition\Ch06\Ch06_Examples\PrimeRead\PrimeRead\bin\Debug\PrimeRead.exe
+C:\CSharp_4thEdition\Ch06\Ch06_Examples\PrimeRead\PrimeRead\bin\Debug\PrimeRead.pdb
+C:\CSharp_4thEdition\Ch06\Ch06_Examples\PrimeRead\PrimeRead\obj\Debug\PrimeRead.exe
+C:\CSharp_4thEdition\Ch06\Ch06_Examples\PrimeRead\PrimeRead\obj\Debug\PrimeRead.pdb
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\AuthorsFirst\Ch06\Ch06_Examples\PrimeRead\PrimeRead\bin\Debug\PrimeRead.exe.config
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\AuthorsFirst\Ch06\Ch06_Examples\PrimeRead\PrimeRead\obj\Debug\PrimeRead.exe
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\AuthorsFirst\Ch06\Ch06_Examples\PrimeRead\PrimeRead\obj\Debug\PrimeRead.pdb
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\AuthorsFirst\Ch06\Ch06_Examples\PrimeRead\PrimeRead\bin\Debug\PrimeRead.exe
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\AuthorsFirst\Ch06\Ch06_Examples\PrimeRead\PrimeRead\bin\Debug\PrimeRead.pdb
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\RTP\Ch06\Ch06_Examples\PrimeRead\PrimeRead\bin\Debug\PrimeRead.exe.config
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\RTP\Ch06\Ch06_Examples\PrimeRead\PrimeRead\obj\Debug\PrimeRead.exe
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\RTP\Ch06\Ch06_Examples\PrimeRead\PrimeRead\obj\Debug\PrimeRead.pdb
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\RTP\Ch06\Ch06_Examples\PrimeRead\PrimeRead\bin\Debug\PrimeRead.exe
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\RTP\Ch06\Ch06_Examples\PrimeRead\PrimeRead\bin\Debug\PrimeRead.pdb
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\RTP\Ch06\Ch06_Examples\PrimeRead\PrimeRead\obj\Debug\PrimeRead.csprojResolveAssemblyReference.cache

@@ -1,0 +1,8 @@
+C:\CSharp_4thEdition\AuthorsFirst\Ch11\Ch11_Examples\StudentGov\StudentGov\Organization\bin\Debug\Organization.dll
+C:\CSharp_4thEdition\AuthorsFirst\Ch11\Ch11_Examples\StudentGov\StudentGov\Organization\bin\Debug\Organization.pdb
+C:\CSharp_4thEdition\AuthorsFirst\Ch11\Ch11_Examples\StudentGov\StudentGov\Organization\obj\Debug\Organization.dll
+C:\CSharp_4thEdition\AuthorsFirst\Ch11\Ch11_Examples\StudentGov\StudentGov\Organization\obj\Debug\Organization.pdb
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\RTP\Ch11\Ch11_Examples\StudentGov\StudentGov\Organization\bin\Debug\Organization.dll
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\RTP\Ch11\Ch11_Examples\StudentGov\StudentGov\Organization\bin\Debug\Organization.pdb
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\RTP\Ch11\Ch11_Examples\StudentGov\StudentGov\Organization\obj\Debug\Organization.dll
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\RTP\Ch11\Ch11_Examples\StudentGov\StudentGov\Organization\obj\Debug\Organization.pdb

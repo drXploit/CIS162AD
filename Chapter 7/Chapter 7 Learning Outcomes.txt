@@ -1,0 +1,24 @@
+What does it mean to perform a compile-time initialization of an array?
+When you perform a compile-time initialization of an array, it means you initialize the array in the code with predefined values that then get compiled into the static code that doesn't get changed later on (one useful situation would be with strings containing the months of the year). 
+
+What index is used to access the first element in an array?
+The first element in an array is accessed through index 0.
+
+How to you determine the number of elements in an array?
+The number of elements in an array would be accessed by the Length property, which returns the number of elements. (since its the number of elements the programmer would have to use "array.Length - 1" to take into account zero index)
+
+Is it possible to resize an array in C# once it has been declared?  Explain why or why not.
+In C# it isn't possible to resize an array once it has been declared because the memory gets allocated to the specific size based on the type. It can be a variable size, but once the declaration using 'new' procedes, it needs to stick to that parameter.
+
+What are some of the useful methods in the Array class?
+BinarySearch
+Clear
+Clone
+Copy
+CopyTo
+GetValue
+IndexOf
+LastIndexOf
+Reverse
+SetValue
+Sort

@@ -1,0 +1,8 @@
+C:\Users\jerem\source\repos\IPrintable\IPrintable\bin\Debug\netstandard1.4\IPrintable.deps.json
+C:\Users\jerem\source\repos\IPrintable\IPrintable\bin\Debug\netstandard1.4\IPrintable.dll
+C:\Users\jerem\source\repos\IPrintable\IPrintable\bin\Debug\netstandard1.4\IPrintable.pdb
+C:\Users\jerem\source\repos\IPrintable\IPrintable\obj\Debug\netstandard1.4\IPrintable.csprojAssemblyReference.cache
+C:\Users\jerem\source\repos\IPrintable\IPrintable\obj\Debug\netstandard1.4\IPrintable.csproj.CoreCompileInputs.cache
+C:\Users\jerem\source\repos\IPrintable\IPrintable\obj\Debug\netstandard1.4\IPrintable.AssemblyInfo.cs
+C:\Users\jerem\source\repos\IPrintable\IPrintable\obj\Debug\netstandard1.4\IPrintable.dll
+C:\Users\jerem\source\repos\IPrintable\IPrintable\obj\Debug\netstandard1.4\IPrintable.pdb

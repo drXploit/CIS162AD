@@ -1,0 +1,10 @@
+C:\Users\jerem\source\repos\BankGUI\BankGUI\bin\Debug\BankGUI.exe.config
+C:\Users\jerem\source\repos\BankGUI\BankGUI\bin\Debug\BankGUI.exe
+C:\Users\jerem\source\repos\BankGUI\BankGUI\bin\Debug\BankGUI.pdb
+C:\Users\jerem\source\repos\BankGUI\BankGUI\obj\Debug\BankGUI.csprojAssemblyReference.cache
+C:\Users\jerem\source\repos\BankGUI\BankGUI\obj\Debug\BankGUI.BankForm.resources
+C:\Users\jerem\source\repos\BankGUI\BankGUI\obj\Debug\BankGUI.Properties.Resources.resources
+C:\Users\jerem\source\repos\BankGUI\BankGUI\obj\Debug\BankGUI.csproj.GenerateResource.cache
+C:\Users\jerem\source\repos\BankGUI\BankGUI\obj\Debug\BankGUI.csproj.CoreCompileInputs.cache
+C:\Users\jerem\source\repos\BankGUI\BankGUI\obj\Debug\BankGUI.exe
+C:\Users\jerem\source\repos\BankGUI\BankGUI\obj\Debug\BankGUI.pdb

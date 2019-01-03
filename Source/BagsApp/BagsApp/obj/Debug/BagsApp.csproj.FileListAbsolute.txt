@@ -1,0 +1,10 @@
+C:\Users\jerem\source\repos\BagsApp\BagsApp\obj\Debug\BagsApp.csprojAssemblyReference.cache
+C:\Users\jerem\source\repos\BagsApp\BagsApp\obj\Debug\BagsApp.Properties.Resources.resources
+C:\Users\jerem\source\repos\BagsApp\BagsApp\obj\Debug\BagsApp.csproj.GenerateResource.cache
+C:\Users\jerem\source\repos\BagsApp\BagsApp\obj\Debug\BagsApp.csproj.CoreCompileInputs.cache
+C:\Users\jerem\source\repos\BagsApp\BagsApp\bin\Debug\BagsApp.exe.config
+C:\Users\jerem\source\repos\BagsApp\BagsApp\bin\Debug\BagsApp.exe
+C:\Users\jerem\source\repos\BagsApp\BagsApp\bin\Debug\BagsApp.pdb
+C:\Users\jerem\source\repos\BagsApp\BagsApp\obj\Debug\BagsApp.exe
+C:\Users\jerem\source\repos\BagsApp\BagsApp\obj\Debug\BagsApp.pdb
+C:\Users\jerem\source\repos\BagsApp\BagsApp\obj\Debug\BagsApp.BagsForm.resources

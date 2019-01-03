@@ -1,0 +1,10 @@
+C:\Users\jerem\source\repos\ReadingMaterialPresentation\ReadingMaterialPresentation\bin\Debug\ReadingMaterialPresentation.exe.config
+C:\Users\jerem\source\repos\ReadingMaterialPresentation\ReadingMaterialPresentation\bin\Debug\ReadingMaterialPresentation.exe
+C:\Users\jerem\source\repos\ReadingMaterialPresentation\ReadingMaterialPresentation\bin\Debug\ReadingMaterialPresentation.pdb
+C:\Users\jerem\source\repos\ReadingMaterialPresentation\ReadingMaterialPresentation\obj\Debug\ReadingMaterialPresentation.csprojAssemblyReference.cache
+C:\Users\jerem\source\repos\ReadingMaterialPresentation\ReadingMaterialPresentation\obj\Debug\ReadingMaterialPresentation.Properties.Resources.resources
+C:\Users\jerem\source\repos\ReadingMaterialPresentation\ReadingMaterialPresentation\obj\Debug\ReadingMaterialPresentation.csproj.GenerateResource.cache
+C:\Users\jerem\source\repos\ReadingMaterialPresentation\ReadingMaterialPresentation\obj\Debug\ReadingMaterialPresentation.csproj.CoreCompileInputs.cache
+C:\Users\jerem\source\repos\ReadingMaterialPresentation\ReadingMaterialPresentation\obj\Debug\ReadingMaterialPresentation.exe
+C:\Users\jerem\source\repos\ReadingMaterialPresentation\ReadingMaterialPresentation\obj\Debug\ReadingMaterialPresentation.pdb
+C:\Users\jerem\source\repos\ReadingMaterialPresentation\ReadingMaterialPresentation\obj\Debug\ReadingMaterialPresentation.Presentation.resources

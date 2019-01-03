@@ -1,0 +1,4 @@
+Write a tip calculating application that can be used to determine what the tip and final charges
+ would be given a total bill charge. Display the tip for 15% and 20% along with the totals for each
+ of the percentages. On output, show the original bill charge and each of the tip calculations with
+ a final amount. Be sure to provide labels and number align the values.

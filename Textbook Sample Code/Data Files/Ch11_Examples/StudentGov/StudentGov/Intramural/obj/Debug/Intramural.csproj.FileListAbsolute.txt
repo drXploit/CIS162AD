@@ -1,0 +1,14 @@
+C:\CSharp_4thEdition\AuthorsFirst\Ch11\Ch11_Examples\StudentGov\StudentGov\Intramural\bin\Debug\Intramural.dll
+C:\CSharp_4thEdition\AuthorsFirst\Ch11\Ch11_Examples\StudentGov\StudentGov\Intramural\bin\Debug\Intramural.pdb
+C:\CSharp_4thEdition\AuthorsFirst\Ch11\Ch11_Examples\StudentGov\StudentGov\Intramural\bin\Debug\Organization.dll
+C:\CSharp_4thEdition\AuthorsFirst\Ch11\Ch11_Examples\StudentGov\StudentGov\Intramural\bin\Debug\Organization.pdb
+C:\CSharp_4thEdition\AuthorsFirst\Ch11\Ch11_Examples\StudentGov\StudentGov\Intramural\obj\Debug\Intramural.csprojResolveAssemblyReference.cache
+C:\CSharp_4thEdition\AuthorsFirst\Ch11\Ch11_Examples\StudentGov\StudentGov\Intramural\obj\Debug\Intramural.dll
+C:\CSharp_4thEdition\AuthorsFirst\Ch11\Ch11_Examples\StudentGov\StudentGov\Intramural\obj\Debug\Intramural.pdb
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\RTP\Ch11\Ch11_Examples\StudentGov\StudentGov\Intramural\bin\Debug\Intramural.dll
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\RTP\Ch11\Ch11_Examples\StudentGov\StudentGov\Intramural\bin\Debug\Intramural.pdb
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\RTP\Ch11\Ch11_Examples\StudentGov\StudentGov\Intramural\bin\Debug\Organization.dll
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\RTP\Ch11\Ch11_Examples\StudentGov\StudentGov\Intramural\bin\Debug\Organization.pdb
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\RTP\Ch11\Ch11_Examples\StudentGov\StudentGov\Intramural\obj\Debug\Intramural.csprojResolveAssemblyReference.cache
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\RTP\Ch11\Ch11_Examples\StudentGov\StudentGov\Intramural\obj\Debug\Intramural.dll
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\RTP\Ch11\Ch11_Examples\StudentGov\StudentGov\Intramural\obj\Debug\Intramural.pdb

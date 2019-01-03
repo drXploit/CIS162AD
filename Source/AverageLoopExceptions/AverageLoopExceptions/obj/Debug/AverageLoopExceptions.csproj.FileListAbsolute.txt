@@ -1,0 +1,7 @@
+C:\Users\jerem\source\repos\AverageLoopExceptions\AverageLoopExceptions\bin\Debug\AverageLoopExceptions.exe.config
+C:\Users\jerem\source\repos\AverageLoopExceptions\AverageLoopExceptions\bin\Debug\AverageLoopExceptions.exe
+C:\Users\jerem\source\repos\AverageLoopExceptions\AverageLoopExceptions\bin\Debug\AverageLoopExceptions.pdb
+C:\Users\jerem\source\repos\AverageLoopExceptions\AverageLoopExceptions\obj\Debug\AverageLoopExceptions.csprojAssemblyReference.cache
+C:\Users\jerem\source\repos\AverageLoopExceptions\AverageLoopExceptions\obj\Debug\AverageLoopExceptions.csproj.CoreCompileInputs.cache
+C:\Users\jerem\source\repos\AverageLoopExceptions\AverageLoopExceptions\obj\Debug\AverageLoopExceptions.exe
+C:\Users\jerem\source\repos\AverageLoopExceptions\AverageLoopExceptions\obj\Debug\AverageLoopExceptions.pdb

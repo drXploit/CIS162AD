@@ -1,0 +1,12 @@
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\AuthorsFirst\Ch03\Ch03_Examples\JoggingDistance\bin\Debug\JoggingDistance.exe.config
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\AuthorsFirst\Ch03\Ch03_Examples\JoggingDistance\obj\Debug\JoggingDistance.csprojResolveAssemblyReference.cache
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\AuthorsFirst\Ch03\Ch03_Examples\JoggingDistance\bin\Debug\JoggingDistance.exe
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\AuthorsFirst\Ch03\Ch03_Examples\JoggingDistance\bin\Debug\JoggingDistance.pdb
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\AuthorsFirst\Ch03\Ch03_Examples\JoggingDistance\obj\Debug\JoggingDistance.exe
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\AuthorsFirst\Ch03\Ch03_Examples\JoggingDistance\obj\Debug\JoggingDistance.pdb
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\RTP\Ch03\Ch03_Examples\JoggingDistance\bin\Debug\JoggingDistance.exe.config
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\RTP\Ch03\Ch03_Examples\JoggingDistance\obj\Debug\JoggingDistance.exe
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\RTP\Ch03\Ch03_Examples\JoggingDistance\obj\Debug\JoggingDistance.pdb
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\RTP\Ch03\Ch03_Examples\JoggingDistance\bin\Debug\JoggingDistance.exe
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\RTP\Ch03\Ch03_Examples\JoggingDistance\bin\Debug\JoggingDistance.pdb
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\RTP\Ch03\Ch03_Examples\JoggingDistance\obj\Debug\JoggingDistance.csprojResolveAssemblyReference.cache

@@ -1,0 +1,13 @@
+C:\Users\jerem\source\repos\Book\Book\bin\Debug\netstandard1.4\Book.deps.json
+C:\Users\jerem\source\repos\Book\Book\bin\Debug\netstandard1.4\Book.dll
+C:\Users\jerem\source\repos\Book\Book\bin\Debug\netstandard1.4\Book.pdb
+C:\Users\jerem\source\repos\Book\Book\bin\Debug\netstandard1.4\ReadingMaterial.dll
+C:\Users\jerem\source\repos\Book\Book\bin\Debug\netstandard1.4\ReadingMaterial.pdb
+C:\Users\jerem\source\repos\Book\Book\obj\Debug\netstandard1.4\Book.csprojAssemblyReference.cache
+C:\Users\jerem\source\repos\Book\Book\obj\Debug\netstandard1.4\Book.csproj.CoreCompileInputs.cache
+C:\Users\jerem\source\repos\Book\Book\obj\Debug\netstandard1.4\Book.AssemblyInfo.cs
+C:\Users\jerem\source\repos\Book\Book\obj\Debug\netstandard1.4\Book.csproj.CopyComplete
+C:\Users\jerem\source\repos\Book\Book\obj\Debug\netstandard1.4\Book.dll
+C:\Users\jerem\source\repos\Book\Book\obj\Debug\netstandard1.4\Book.pdb
+C:\Users\jerem\source\repos\Book\Book\bin\Debug\netstandard1.4\IPrintable.dll
+C:\Users\jerem\source\repos\Book\Book\bin\Debug\netstandard1.4\IPrintable.pdb

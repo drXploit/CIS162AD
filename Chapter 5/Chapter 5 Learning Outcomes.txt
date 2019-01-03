@@ -1,0 +1,19 @@
+Explain the difference between equality and relational operators.
+Equality operators are for testing whether two variables are the same, while relational operators test the construct of whether one is bigger or smaller, or how they relate in some way.
+
+List the equality operators in C#
+==
+!=
+
+List the relational operators in C#
+<
+>
+>=
+<=
+
+Explain the difference between one-way and two-way if statements.
+One-way if statements are evaluated when there is a need for it to be tested.
+Two-way if statements use the else clause which then executes the other branch of code in case the first one was false.
+
+Explain the purpose of TryParse().
+TryParse() is used when testing whether or not the Parse would have thrown an exception, so that the conversion is known to be good or bad. 

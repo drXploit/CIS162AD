@@ -1,0 +1,14 @@
+Provide a definition for the term abstraction.
+Abstraction is the process of keeping only the important "stuff" visible to the average person, and keeping the complexities hidden. This keeps all of the hard to understand "under the hood" elements hidden and only the parts that need to be visible, visible.
+
+Provide a definition for the term polymorphism.
+In simple language, polymorphism is where you make multiple functions with the same name have different parameter argument types so that it can process multiple types during execution.
+
+What is the difference between sealed and abstract classes?
+The difference is that sealed classes cannot be overriden by subclasses when they are instantiated from it, where abstract classes are meant to be overridden.
+
+What are generics?
+Generics are defined using angled brackets, and they all the programmer to define a class that is able to have different placeholders assigned for different types, but only the one specified is used at compile time. This makes it so you can write a class or method that can work with different data types.
+
+Explain the OOP principal of inheritance.
+Inhereitance involves having classes created under a parent class and they not only have their own unique characterisic traits, but also have those of the parent itself. This way, they can be modified to either override the parent or keep those basic fundamentals.

@@ -1,0 +1,16 @@
+Explain the difference between the DirectoryInfo and Directory class.
+Directory directly inherits from the Object class, where DirectoryInfo is a few children down through MarshalByRefObject->FileSystemInfo in its inheretance.
+DirectoryInfo uses instance methods instead of static members.
+DirectoryInfo has the key properties Parent and Root which are useful for obtaining the paths you are working with.
+
+What type of classes are used to retrieve information/date from a file in C#?
+FileInfo and DirectoryInfo add functionality for retreiving information/dates from files.
+
+Explain why exception handlers are used with streams.
+Since files can be extremely dynamic, access to them and the data contained is always changing. This can create conficts in the filesystem, which need to be handled by exception handlers so that the program doesn't terminate abnormally when various errors do occur.
+
+What classes are used to retrieve non-ASCII data from a file?
+BinaryReader/BinaryWriter wrapped around the FileStream object
+
+Why is it a good coding practice to close all open files before your application terminates?
+It is good coding practice to close all open files before termination because of the stream nature of data. Closing the file will flush the values in the buffer to the file and also close the resources associated with it which will allow other programs that use the same file to be able to open the file later and not create an exception.

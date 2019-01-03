@@ -1,0 +1,16 @@
+C:\CSharpProjects\ProgrammingMessage\bin\Debug\ProgrammingMessage.exe.config
+C:\CSharpProjects\ProgrammingMessage\bin\Debug\ProgrammingMessage.exe
+C:\CSharpProjects\ProgrammingMessage\bin\Debug\ProgrammingMessage.pdb
+C:\CSharpProjects\ProgrammingMessage\obj\Debug\ProgrammingMessage.exe
+C:\CSharpProjects\ProgrammingMessage\obj\Debug\ProgrammingMessage.pdb
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\AuthorsFirst\Ch01Examples\ProgrammingMessage\bin\Debug\ProgrammingMessage.exe.config
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\AuthorsFirst\Ch01Examples\ProgrammingMessage\obj\Debug\ProgrammingMessage.exe
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\AuthorsFirst\Ch01Examples\ProgrammingMessage\obj\Debug\ProgrammingMessage.pdb
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\AuthorsFirst\Ch01\Ch01Examples\ProgrammingMessage\bin\Debug\ProgrammingMessage.exe.config
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\AuthorsFirst\Ch01\Ch01Examples\ProgrammingMessage\obj\Debug\ProgrammingMessage.exe
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\AuthorsFirst\Ch01\Ch01Examples\ProgrammingMessage\obj\Debug\ProgrammingMessage.pdb
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\RTP\Ch01\Ch01Examples\ProgrammingMessage\bin\Debug\ProgrammingMessage.exe.config
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\RTP\Ch01\Ch01Examples\ProgrammingMessage\obj\Debug\ProgrammingMessage.exe
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\RTP\Ch01\Ch01Examples\ProgrammingMessage\obj\Debug\ProgrammingMessage.pdb
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\RTP\Ch01\Ch01Examples\ProgrammingMessage\bin\Debug\ProgrammingMessage.exe
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\RTP\Ch01\Ch01Examples\ProgrammingMessage\bin\Debug\ProgrammingMessage.pdb

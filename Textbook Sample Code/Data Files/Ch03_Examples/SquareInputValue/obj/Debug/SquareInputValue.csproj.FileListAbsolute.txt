@@ -1,0 +1,12 @@
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\AuthorsFirst\Ch03\Ch03_Examples\SquareInputValue\bin\Debug\SquareInputValue.exe.config
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\AuthorsFirst\Ch03\Ch03_Examples\SquareInputValue\bin\Debug\SquareInputValue.exe
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\AuthorsFirst\Ch03\Ch03_Examples\SquareInputValue\bin\Debug\SquareInputValue.pdb
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\AuthorsFirst\Ch03\Ch03_Examples\SquareInputValue\obj\Debug\SquareInputValue.csprojResolveAssemblyReference.cache
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\AuthorsFirst\Ch03\Ch03_Examples\SquareInputValue\obj\Debug\SquareInputValue.exe
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\AuthorsFirst\Ch03\Ch03_Examples\SquareInputValue\obj\Debug\SquareInputValue.pdb
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\RTP\Ch03\Ch03_Examples\SquareInputValue\bin\Debug\SquareInputValue.exe.config
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\RTP\Ch03\Ch03_Examples\SquareInputValue\obj\Debug\SquareInputValue.exe
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\RTP\Ch03\Ch03_Examples\SquareInputValue\obj\Debug\SquareInputValue.pdb
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\RTP\Ch03\Ch03_Examples\SquareInputValue\bin\Debug\SquareInputValue.exe
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\RTP\Ch03\Ch03_Examples\SquareInputValue\bin\Debug\SquareInputValue.pdb
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\RTP\Ch03\Ch03_Examples\SquareInputValue\obj\Debug\SquareInputValue.csprojResolveAssemblyReference.cache

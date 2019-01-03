@@ -1,0 +1,17 @@
+What keywords are used in C# for exception handling?
+try
+catch
+finally
+throw
+
+Explain the purpose of a catch handler.
+A block of code that filters errors before they cause mayhem in one's code.
+
+What keyword is used by a C# developer to explicitly raise an exception?
+throw
+
+Explain what sort of code would most likely go in a try block.
+The sort of code that would most likely go in a try block is code that is most likely to raise an exception.
+
+Provide a definition for the term runtime exception.
+A run-time error is an error that is caused after execution that wasn't able to be detected earlier, such as dividing by zero.

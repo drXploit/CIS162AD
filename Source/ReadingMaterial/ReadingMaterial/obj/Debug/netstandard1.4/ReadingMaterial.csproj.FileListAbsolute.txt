@@ -1,0 +1,8 @@
+C:\Users\jerem\source\repos\ReadingMaterial\ReadingMaterial\bin\Debug\netstandard1.4\ReadingMaterial.deps.json
+C:\Users\jerem\source\repos\ReadingMaterial\ReadingMaterial\bin\Debug\netstandard1.4\ReadingMaterial.dll
+C:\Users\jerem\source\repos\ReadingMaterial\ReadingMaterial\bin\Debug\netstandard1.4\ReadingMaterial.pdb
+C:\Users\jerem\source\repos\ReadingMaterial\ReadingMaterial\obj\Debug\netstandard1.4\ReadingMaterial.csprojAssemblyReference.cache
+C:\Users\jerem\source\repos\ReadingMaterial\ReadingMaterial\obj\Debug\netstandard1.4\ReadingMaterial.csproj.CoreCompileInputs.cache
+C:\Users\jerem\source\repos\ReadingMaterial\ReadingMaterial\obj\Debug\netstandard1.4\ReadingMaterial.AssemblyInfo.cs
+C:\Users\jerem\source\repos\ReadingMaterial\ReadingMaterial\obj\Debug\netstandard1.4\ReadingMaterial.dll
+C:\Users\jerem\source\repos\ReadingMaterial\ReadingMaterial\obj\Debug\netstandard1.4\ReadingMaterial.pdb

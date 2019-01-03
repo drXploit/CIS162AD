@@ -1,0 +1,7 @@
+C:\Users\jerem\source\repos\Chapter2_Exercise7\Chapter2_Exercise7\bin\Debug\Chapter2_Exercise7.exe.config
+C:\Users\jerem\source\repos\Chapter2_Exercise7\Chapter2_Exercise7\bin\Debug\Chapter2_Exercise7.exe
+C:\Users\jerem\source\repos\Chapter2_Exercise7\Chapter2_Exercise7\bin\Debug\Chapter2_Exercise7.pdb
+C:\Users\jerem\source\repos\Chapter2_Exercise7\Chapter2_Exercise7\obj\Debug\Chapter2_Exercise7.csprojAssemblyReference.cache
+C:\Users\jerem\source\repos\Chapter2_Exercise7\Chapter2_Exercise7\obj\Debug\Chapter2_Exercise7.csproj.CoreCompileInputs.cache
+C:\Users\jerem\source\repos\Chapter2_Exercise7\Chapter2_Exercise7\obj\Debug\Chapter2_Exercise7.exe
+C:\Users\jerem\source\repos\Chapter2_Exercise7\Chapter2_Exercise7\obj\Debug\Chapter2_Exercise7.pdb

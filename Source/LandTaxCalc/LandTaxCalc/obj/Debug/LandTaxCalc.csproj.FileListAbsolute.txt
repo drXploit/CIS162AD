@@ -1,0 +1,7 @@
+C:\Users\jerem\source\repos\LandTaxCalc\LandTaxCalc\bin\Debug\LandTaxCalc.exe.config
+C:\Users\jerem\source\repos\LandTaxCalc\LandTaxCalc\bin\Debug\LandTaxCalc.exe
+C:\Users\jerem\source\repos\LandTaxCalc\LandTaxCalc\bin\Debug\LandTaxCalc.pdb
+C:\Users\jerem\source\repos\LandTaxCalc\LandTaxCalc\obj\Debug\LandTaxCalc.csprojAssemblyReference.cache
+C:\Users\jerem\source\repos\LandTaxCalc\LandTaxCalc\obj\Debug\LandTaxCalc.csproj.CoreCompileInputs.cache
+C:\Users\jerem\source\repos\LandTaxCalc\LandTaxCalc\obj\Debug\LandTaxCalc.exe
+C:\Users\jerem\source\repos\LandTaxCalc\LandTaxCalc\obj\Debug\LandTaxCalc.pdb

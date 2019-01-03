@@ -1,0 +1,13 @@
+C:\Users\jerem\source\repos\Magazine\Magazine\bin\Debug\netstandard1.4\Magazine.deps.json
+C:\Users\jerem\source\repos\Magazine\Magazine\bin\Debug\netstandard1.4\Magazine.dll
+C:\Users\jerem\source\repos\Magazine\Magazine\bin\Debug\netstandard1.4\Magazine.pdb
+C:\Users\jerem\source\repos\Magazine\Magazine\bin\Debug\netstandard1.4\ReadingMaterial.dll
+C:\Users\jerem\source\repos\Magazine\Magazine\bin\Debug\netstandard1.4\ReadingMaterial.pdb
+C:\Users\jerem\source\repos\Magazine\Magazine\obj\Debug\netstandard1.4\Magazine.csprojAssemblyReference.cache
+C:\Users\jerem\source\repos\Magazine\Magazine\obj\Debug\netstandard1.4\Magazine.csproj.CoreCompileInputs.cache
+C:\Users\jerem\source\repos\Magazine\Magazine\obj\Debug\netstandard1.4\Magazine.AssemblyInfo.cs
+C:\Users\jerem\source\repos\Magazine\Magazine\obj\Debug\netstandard1.4\Magazine.csproj.CopyComplete
+C:\Users\jerem\source\repos\Magazine\Magazine\obj\Debug\netstandard1.4\Magazine.dll
+C:\Users\jerem\source\repos\Magazine\Magazine\obj\Debug\netstandard1.4\Magazine.pdb
+C:\Users\jerem\source\repos\Magazine\Magazine\bin\Debug\netstandard1.4\IPrintable.dll
+C:\Users\jerem\source\repos\Magazine\Magazine\bin\Debug\netstandard1.4\IPrintable.pdb

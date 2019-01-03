@@ -1,0 +1,16 @@
+Explain data providers.
+Data providers are sets of classes that link specified database management systems by connecting, executing commands, and then retrieve the results. 
+
+What programming language is used with C# when creating database driven applications?
+Structured Query Language
+
+What is the purpose of a SQL select statement?
+The SQL SELECT statement is a retrieval command that will get rows from a table specified within the command itself.
+
+Define DataSets.
+DataSets are objects populated by the data adapter which contain the retrieved results from the query so that the connection to the database isn't always live.
+
+What advantages are there in using databases as compared to text files.
+Database records can relate to other records, which makes management easier.
+Updating text files is difficult, and can eventually be very slow when retrieving/updating data.
+Retrieving data from a database is very easy, and can involve one, or just a few lines of code, and can get specific results with the SELECT statement.

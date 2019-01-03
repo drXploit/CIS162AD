@@ -1,0 +1,7 @@
+C:\Users\jerem\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\Chapter1_e9.csproj.CoreCompileInputs.cache
+C:\Users\jerem\source\repos\consoleapp1\ConsoleApp1\bin\Debug\C1E9.exe.config
+C:\Users\jerem\source\repos\consoleapp1\ConsoleApp1\bin\Debug\C1E9.exe
+C:\Users\jerem\source\repos\consoleapp1\ConsoleApp1\bin\Debug\C1E9.pdb
+C:\Users\jerem\source\repos\consoleapp1\ConsoleApp1\obj\Debug\Chapter1_e9.csprojAssemblyReference.cache
+C:\Users\jerem\source\repos\consoleapp1\ConsoleApp1\obj\Debug\C1E9.exe
+C:\Users\jerem\source\repos\consoleapp1\ConsoleApp1\obj\Debug\C1E9.pdb

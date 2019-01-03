@@ -1,0 +1,31 @@
+Provide an example of a constant that might be used in a C# program.
+An example of a constant used in a C# program would be pi, because it's an unchanging number.
+
+What predefined data types are available in C#?
+string
+float
+object
+byte
+char
+sbyte
+int
+uint
+long
+ulong
+short
+ushort
+double
+decimal
+bool
+
+
+Explain the difference between floating-point and decimal data types in C#.
+Floating point data types must contain a decimal (end in .something) while decimal data types have the decimal as an option (don't necesarrily have to end in .something).
+So if the number declared is 0, the float would have to be stated as 0.0, while the decimal could be 0 or 0.0 without any compilation warnings or errors.
+Also 128 bits are used for the value of a decimal so there is a larger precision than float.
+
+Explain casting.
+Casting means changing types from one to another by implying the type to changing into (type) before the variable. so thisDouble = (double) myInteger; will cast the integer properly into the double in memory. 
+
+What is the purpose of the auto increment and auto decrement operators in C#?
+They simplify increasing or decreasing an integer by one without naming the variable twice. E.G "myVariable++;" instead of "myVariable = myVariable + 1;"

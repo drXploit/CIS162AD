@@ -1,0 +1,14 @@
+Explain what it means to compile a program.
+To compile a program is using a program called a compiler to translate the programmers source code into machine code in which the processor understands.
+
+What types of applications can be created using C#?
+C# is used to create not only desktop (Windows, Mac, Linux) applications, but also web applications and services. Writing video games is also possible.
+
+What are the steps of software development?
+the Software Development Life Cycle is comprised of Planning, Analysis, Design, Implementation, and Maintenance; of which will circle around depending how the software or technology evolves in the future.
+
+What is .NET?
+.NET is a framework made by Microsoft which allows programmers to develop applications for multiple platforms using provided class libraries. 
+
+Why are comments important in source code?
+Comments are important in source code because they allow all programmers/project managers to understand where the original author of the code was going with his/her work.

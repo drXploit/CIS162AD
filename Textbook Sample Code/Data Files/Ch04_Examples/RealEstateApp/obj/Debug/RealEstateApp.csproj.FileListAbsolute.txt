@@ -1,0 +1,15 @@
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\AuthorsFirst\Ch04\Ch04_Examples\RealEstateApp\bin\Debug\RealEstateApp.exe.config
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\AuthorsFirst\Ch04\Ch04_Examples\RealEstateApp\bin\Debug\RealEstateApp.exe
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\AuthorsFirst\Ch04\Ch04_Examples\RealEstateApp\bin\Debug\RealEstateApp.pdb
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\AuthorsFirst\Ch04\Ch04_Examples\RealEstateApp\obj\Debug\RealEstateApp.csprojResolveAssemblyReference.cache
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\AuthorsFirst\Ch04\Ch04_Examples\RealEstateApp\obj\Debug\RealEstateApp.exe
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\AuthorsFirst\Ch04\Ch04_Examples\RealEstateApp\obj\Debug\RealEstateApp.pdb
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\RTP\Ch04\Ch04_Examples\RealEstateApp\bin\Debug\RealEstateApp.exe.config
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\RTP\Ch04\Ch04_Examples\RealEstateApp\obj\Debug\RealEstateApp.exe
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\RTP\Ch04\Ch04_Examples\RealEstateApp\obj\Debug\RealEstateApp.pdb
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\RTP\Ch04\Ch04_Examples\RealEstateApp\obj\Debug\RealEstateApp.csprojResolveAssemblyReference.cache
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\RTP\Ch04\Ch04_Examples\RealEstateApp\bin\Debug\RealEstateApp.exe
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\RTP\Ch04\Ch04_Examples\RealEstateApp\bin\Debug\RealEstateApp.pdb
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\FirstPages\Ch04\RevisedExamples\RealEstateApp\bin\Debug\RealEstateApp.exe.config
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\FirstPages\Ch04\RevisedExamples\RealEstateApp\obj\Debug\RealEstateApp.exe
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\FirstPages\Ch04\RevisedExamples\RealEstateApp\obj\Debug\RealEstateApp.pdb

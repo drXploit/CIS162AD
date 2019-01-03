@@ -1,0 +1,14 @@
+Explain HCI.
+It's a field of study for the way humans interact with computers. Designing computers to act more human would increase the learning curve and ease of use in everyday interactions.
+
+What are forms in C#?
+Forms are the top-level windows where once inhereted, the properties and methods for windows are accessible and design friendly.
+
+Provide a definition for the term event.
+An event is an action that is fired, and a method is subsequently called because of that trigger, such as a button click, window resize, etc. 
+
+Provide a definition for the term control.
+Controls are the objects on the form that are visible to the user, and can be interacted with depending on the type.
+
+Why is the System.Windows.Control class important to Window based applications.
+The System.Windows.Control class is important to Windows based application because it contains most of the recognizable controls used everyday by most Windows GUI applications. This gives many of the Windows GUI applications the same Look-And-Feel while increasing the learning-curve for many users.

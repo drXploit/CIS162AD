@@ -1,0 +1,15 @@
+C:\CSharp_4thEdition\Ch06\Ch06_Examples\NestedLoop\NestedLoop\bin\Debug\NestedLoop.exe.config
+C:\CSharp_4thEdition\Ch06\Ch06_Examples\NestedLoop\NestedLoop\bin\Debug\NestedLoop.exe
+C:\CSharp_4thEdition\Ch06\Ch06_Examples\NestedLoop\NestedLoop\bin\Debug\NestedLoop.pdb
+C:\CSharp_4thEdition\Ch06\Ch06_Examples\NestedLoop\NestedLoop\obj\Debug\NestedLoop.exe
+C:\CSharp_4thEdition\Ch06\Ch06_Examples\NestedLoop\NestedLoop\obj\Debug\NestedLoop.pdb
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\AuthorsFirst\Ch06\Ch06_Examples\NestedLoop\NestedLoop\bin\Debug\NestedLoop.exe.config
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\AuthorsFirst\Ch06\Ch06_Examples\NestedLoop\NestedLoop\obj\Debug\NestedLoop.exe
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\AuthorsFirst\Ch06\Ch06_Examples\NestedLoop\NestedLoop\obj\Debug\NestedLoop.pdb
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\AuthorsFirst\Ch06\Ch06_Examples\NestedLoop\NestedLoop\bin\Debug\NestedLoop.exe
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\AuthorsFirst\Ch06\Ch06_Examples\NestedLoop\NestedLoop\bin\Debug\NestedLoop.pdb
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\RTP\Ch06\Ch06_Examples\NestedLoop\NestedLoop\bin\Debug\NestedLoop.exe.config
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\RTP\Ch06\Ch06_Examples\NestedLoop\NestedLoop\obj\Debug\NestedLoop.exe
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\RTP\Ch06\Ch06_Examples\NestedLoop\NestedLoop\obj\Debug\NestedLoop.pdb
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\RTP\Ch06\Ch06_Examples\NestedLoop\NestedLoop\bin\Debug\NestedLoop.exe
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\RTP\Ch06\Ch06_Examples\NestedLoop\NestedLoop\bin\Debug\NestedLoop.pdb

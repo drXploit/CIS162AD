@@ -1,0 +1,29 @@
+Explain delegates.
+Delegates are special types of classes that allow programmers to pass method references through the "delegate" in order to encapsulate references to the method within the delegate itself. They operate based on the signature return value instead of the data parameters that methods have. This allows different methods to be called even after compilation. They are important because of their relationship with events, and being able to define different methods each time an event is called, as long as the return signature is kept in line with that of the delegate.
+
+What events are available in the ListBox control?
+Enter()
+GotFocus()
+KeyPress()
+Leave()
+MouseEnter()
+MouseHover()
+MouseLeave()
+SelectedIndexChanged()
+
+Explain the differences between the RadioButton and CheckBox control.
+CheckBox:
+Appears as a small box that when selected gets a check inside of it.
+Each CheckBox is independant on whether or not other checkboxes are selected (unless programmed otherwise)
+Even though they can be grouped using the GroupBox control, it doesnt impact the CheckBox objects as far as selection goes.
+
+RadioButton:
+Appears as an empty circle, when selected has a dot in the center.
+They are grouped together so that their are multiple options (2 or more), but only one selection within the group occurs at a time. When one RadioButton is selected, the others in the group are deselected.
+
+Provide/Explain an example where you would use a CombBox control in your GUI design.
+I would use a ComboBox control in my GUI design when there are multiple options available, and only one needs to be selected. They come in handy especially when there is limited space on the GUI form. An example would be in a form that has a user fill out their personal information. If the application needed to know what kind of title to put before the users name, the ComboBox could contain Mr, Mrs, Ms, Dr, or Unspecified. Instead of having them all listed at once, and taking up valuable GUI space, the ComboBox could wait for the user to click the control, and then pop out the options for selection.
+
+What are dialogs and which ones are available in C#?
+Dialogs are the preconfigured GUI forms that have the standard tools that users are used to seeing in an operating system such as Microsoft Windows. Since they are preconfigured, and read to be dropped onto the ComponentTray, they save programmers valuable time and energy and limit having to "reinvent the wheel".
+The dialog boxes that are available in C# include Windows File Open, File Save, File Print, File Print Preview, Format Font, and Format Color.

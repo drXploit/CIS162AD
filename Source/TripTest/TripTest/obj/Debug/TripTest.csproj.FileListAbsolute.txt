@@ -1,0 +1,7 @@
+C:\Users\jerem\source\repos\TripTest\TripTest\bin\Debug\TripTest.exe.config
+C:\Users\jerem\source\repos\TripTest\TripTest\bin\Debug\TripTest.exe
+C:\Users\jerem\source\repos\TripTest\TripTest\bin\Debug\TripTest.pdb
+C:\Users\jerem\source\repos\TripTest\TripTest\obj\Debug\TripTest.csprojAssemblyReference.cache
+C:\Users\jerem\source\repos\TripTest\TripTest\obj\Debug\TripTest.csproj.CoreCompileInputs.cache
+C:\Users\jerem\source\repos\TripTest\TripTest\obj\Debug\TripTest.exe
+C:\Users\jerem\source\repos\TripTest\TripTest\obj\Debug\TripTest.pdb

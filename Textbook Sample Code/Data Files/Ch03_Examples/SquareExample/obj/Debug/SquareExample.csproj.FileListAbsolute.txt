@@ -1,0 +1,12 @@
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\AuthorsFirst\Ch03\Ch03_Examples\SquareExample\bin\Debug\SquareExample.exe.config
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\AuthorsFirst\Ch03\Ch03_Examples\SquareExample\bin\Debug\SquareExample.exe
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\AuthorsFirst\Ch03\Ch03_Examples\SquareExample\bin\Debug\SquareExample.pdb
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\AuthorsFirst\Ch03\Ch03_Examples\SquareExample\obj\Debug\SquareExample.csprojResolveAssemblyReference.cache
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\AuthorsFirst\Ch03\Ch03_Examples\SquareExample\obj\Debug\SquareExample.exe
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\AuthorsFirst\Ch03\Ch03_Examples\SquareExample\obj\Debug\SquareExample.pdb
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\RTP\Ch03\Ch03_Examples\SquareExample\bin\Debug\SquareExample.exe.config
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\RTP\Ch03\Ch03_Examples\SquareExample\obj\Debug\SquareExample.exe
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\RTP\Ch03\Ch03_Examples\SquareExample\obj\Debug\SquareExample.pdb
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\RTP\Ch03\Ch03_Examples\SquareExample\bin\Debug\SquareExample.exe
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\RTP\Ch03\Ch03_Examples\SquareExample\bin\Debug\SquareExample.pdb
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\RTP\Ch03\Ch03_Examples\SquareExample\obj\Debug\SquareExample.csprojResolveAssemblyReference.cache
